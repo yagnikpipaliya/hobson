@@ -59,9 +59,7 @@ A modern enterprise Property Management SaaS built using **React**, **Redux Saga
 
 🎬 **Video**
 
-```
-assets/admin-demo.mp4
-```
+[Admin-Demo.mp4](https://drive.google.com/file/d/13OJMovvEzv7UPWmRWi7QcW_7IrNPxbkK/view?usp=sharing)
 
 ---
 
@@ -71,9 +69,7 @@ assets/admin-demo.mp4
 
 🎬 **Video**
 
-```
-assets/user-demo.mp4
-```
+[User-Panel-Demo.mp4](https://drive.google.com/file/d/1WQgnBOt7G9XRB2ZCUTBp5lnE-57fNIA_/view?usp=sharing)
 
 ---
 
