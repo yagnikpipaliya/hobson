@@ -10,7 +10,7 @@ Enterprise Property Management Platform featuring AI-powered document intelligen
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -77,14 +77,6 @@ assets/user-demo.mp4
 
 ---
 
-# 📸 Screenshots
-
-| Admin Dashboard | User Dashboard |
-|-----------------|---------------|
-| assets/admin-preview.png | assets/user-preview.png |
-
----
-
 # 🌟 Overview
 
 Hobson is an enterprise-grade Property Management SaaS designed to simplify document management, AI-assisted document understanding, property administration, and collaboration between organizations and users.
@@ -144,18 +136,9 @@ The frontend was built using **React (Vite)** with a scalable component architec
 
 ---
 
-## 🏷 Tag Management
-
-- Dynamic Tags
-- Document Categorization
-- Smart Organization
-
----
-
 ## ⚙ Administration
 
 - Admin Dashboard
-- Company Dashboard
 - User Dashboard
 - Monitoring
 - Analytics
@@ -410,20 +393,6 @@ My responsibilities included:
 ✅ Scalable Folder Structure
 
 ✅ Enterprise-grade Forms
-
----
-
-# 🚀 Future Improvements
-
-- Real-time Notifications
-- WebSocket Chat
-- Advanced Analytics
-- OCR Pipeline
-- AI Recommendations
-- Offline Support
-- Multi-language Support
-- Unit Testing
-- E2E Testing
 
 ---
 
